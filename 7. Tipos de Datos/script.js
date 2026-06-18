@@ -2,8 +2,8 @@
 // En JavaScript, los números se representan utilizando el tipo de dato "number". 
 // Este tipo de dato puede representar tanto números enteros como números flotantes (decimales).
 
-let variableNumero = 10 //numero entero
-let variableDecimal = 3.14 //numero flotante
+let variableNumero = 10 //numero entero (integer)
+let variableDecimal = 3.14 //numero flotante (float o decimal)
 
 
 // -------------- Strings (Texto) ---------------
